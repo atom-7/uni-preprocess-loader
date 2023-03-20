@@ -1,0 +1,15 @@
+{
+  "name": "uni-preprocess-loader",
+  "version": "1.0.0",
+  "description": "用于给H5的Vue项目提供Uniapp条件编译能力",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "xregexp": "3.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
